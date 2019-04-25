@@ -1,0 +1,27 @@
+{
+  "name": "insomnia-plugin-randomchineseitems",
+  "description": "生成随机中文项，包括：简单的中文名，手机号，座机号，邮编，邮箱等",
+  "version": "0.0.1",
+  "main": "index.js",
+  "insomnia": {
+    "name": "randomChineseItems",
+    "description": "生成随机中文项，包括：简单的中文名，手机号，座机号，邮编，邮箱等"
+  },
+  "repository": "https://github.com/JFRabbit/TODO",
+  "dependencies": {
+    "uuid": "3.3.2"
+  },
+  "devDependencies": [],
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "plugins",
+    "random",
+    "chinese",
+    "number",
+    "name",
+    "phone",
+    "generator",
+    "IDCard"
+  ]
+}
