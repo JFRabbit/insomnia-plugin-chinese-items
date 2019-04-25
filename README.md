@@ -3,3 +3,6 @@
 
 Generate a Chinese items, include: Chinese Name, CellPhone, Phone, Postcode, Email, etc.
 
+![Screenshot](https://raw.githubusercontent.com/JFRabbit/insomnia-plugin-chinese-items/master/readme1.png)
+
+![Screenshot](https://raw.githubusercontent.com/JFRabbit/insomnia-plugin-chinese-items/master/readme2.png)
